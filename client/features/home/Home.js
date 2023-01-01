@@ -9,7 +9,10 @@ const Home = (props) => {
 
   return (
     <div>
-      <h3>Welcome, {username}</h3>
+      <h3>Welcome</h3>
+      <div>Hi, I am Grace! I recently graduated from Fullstack Academy and I am very excited to start a career as a software developer.
+        Check out my projects and my 30 day coding challenge!
+      </div>
     </div>
   );
 };
