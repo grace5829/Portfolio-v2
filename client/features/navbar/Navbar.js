@@ -9,9 +9,11 @@ const Navbar = () => {
     <div>
       <nav>
           <div>
-            {/* The navbar will show these links after you log in */}
+          {/* <i className="fa fa-home" aria-hidden="true"></i> */}
+
             <Link to="/home">Home</Link>
-            <Link> Fun Facts</Link>
+            <Link> Projects</Link>
+            <Link> 30 Day Challenge</Link>
           </div>
       </nav>
     </div>
